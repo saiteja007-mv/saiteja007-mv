@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Teja Mothukuri</h1>
-<h3 align="center">Master’s Student in Computer Science at University of Central Missouri | Aspiring Data Analyst | Tech Enthusiast | Tech Enthusiast</h3>
+<h3 align="center">Master’s Student in Computer Science at University of Central Missouri<br>Aspiring Data Analyst<br>Tech & AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja007-mv&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja007-mv" /> </p>
 
 - 🔭 I’m currently working on [Glassdoor Companies Review Analysis](https://github.com/saiteja007-mv/Glassdoor-Companies-Review-Analysis.git)
 
 - 🌱 I’m currently learning **AWS, GCP, AI, ML, Local AI Deployement**
+
+- 👯 I’m looking to collaborate on **Data Analysis & Visualization projects**
 
 - 👨‍💻 All of my projects are available at [https://venkatasaitejaportfolio.netlify.app/](https://venkatasaitejaportfolio.netlify.app/)
 
