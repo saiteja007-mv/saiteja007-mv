@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiteja007-mv&show_icons=true&locale=en&layout=compact" alt="saiteja007-mv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiteja007-mv&show_icons=true&locale=en" alt="saiteja007-mv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja007-mv&" alt="saiteja007-mv" /></p>
