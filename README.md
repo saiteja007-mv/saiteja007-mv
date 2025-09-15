@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja007-mv&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja007-mv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiteja007-mv" alt="saiteja007-mv" /></a> </p>
-
 - 🔭 I’m currently working on [Glassdoor Companies Review Analysis](https://github.com/saiteja007-mv/Glassdoor-Companies-Review-Analysis.git)
 
 - 🌱 I’m currently learning **AWS, GCP, AI, ML, Local AI Deployement**
