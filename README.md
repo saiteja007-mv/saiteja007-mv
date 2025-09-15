@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Teja Mothukuri</h1>
-<h3 align="center">Master’s Student in Computer Science at University of Central Missouri<br>Aspiring Data Analyst<br>Tech & AI Enthusiast</h3>
+<h3 align="center">Master’s Student in Computer Science<br>Aspiring Data Analyst<br>Tech & AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja007-mv&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja007-mv" /> </p>
 
