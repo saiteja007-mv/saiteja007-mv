@@ -1,23 +1,18 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Teja Mothukuri</h1>
-<h3 align="center">Master’s Student in Computer Science<br>Aspiring Data Analyst<br>Tech & AI Enthusiast</h3>
-
+<h3 align="center">Master's Student in Computer Science<br>Aspiring Data Analyst<br>Tech & AI Enthusiast | Content Creator</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja007-mv&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja007-mv" /> </p>
 
-- 🔭 I’m currently working on [Glassdoor Companies Review Analysis](https://github.com/saiteja007-mv/Glassdoor-Companies-Review-Analysis.git)
-
-- 🌱 I’m currently learning **AWS, GCP, AI, ML, Local AI Deployement**
-
-- 👯 I’m looking to collaborate on **Data Analysis & Visualization projects**
-
+- 🎥 I'm currently creating content about **AI, Data Analytics & Automation** on [TechRex](https://youtube.com/@BTechPrakash)
+- 🌱 I'm currently learning **AWS, GCP, AI, ML, Local AI Deployment**
+- 👯 I'm looking to collaborate on **Data Analysis & Visualization projects**
 - 👨‍💻 All of my projects are available at [saitejamothukuri.com](https://saitejamothukuri.com)
-
 - 💬 Ask me about **Python, Excel, SQL, PowerBI, Tableau, Data Visualization, AI Automation**
-
 - 📫 How to reach me **saiteja.motukuri@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/venkatasaitejam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatasaitejam" height="30" width="40" /></a>
+<a href="https://youtube.com/@BTechPrakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TechRex" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
