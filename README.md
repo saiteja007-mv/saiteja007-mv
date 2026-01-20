@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis & Visualization projects**
 
-- 👨‍💻 All of my projects are available at [https://venkatasaitejaportfolio.netlify.app/](https://saitejamothukuri.com)
+- 👨‍💻 All of my projects are available at [saitejamothukuri.com](https://saitejamothukuri.com)
 
 - 💬 Ask me about **Python, Excel, SQL, PowerBI, Tableau, Data Visualization, AI Automation**
 
