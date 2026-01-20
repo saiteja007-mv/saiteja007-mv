@@ -2,7 +2,7 @@
 <h3 align="center">Master's Student in Computer Science<br>Aspiring Data Analyst<br>Tech & AI Enthusiast | Content Creator</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja007-mv&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja007-mv" /> </p>
 
-- 🎥 I'm currently creating content about **AI, Data Analytics & Automation** on [TechRex](https://youtube.com/@BTechPrakash)
+- 🎥 I'm currently creating content about **AI, Data Analytics & Automation** on [TechRex](https://youtube.com/@The_TechRex)
 - 🌱 I'm currently learning **AWS, GCP, AI, ML, Local AI Deployment**
 - 👯 I'm looking to collaborate on **Data Analysis & Visualization projects**
 - 👨‍💻 All of my projects are available at [saitejamothukuri.com](https://saitejamothukuri.com)
